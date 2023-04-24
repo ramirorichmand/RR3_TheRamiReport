@@ -4,7 +4,7 @@ Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Ligh
 
 Keep track of everything, streamline your workflows, and make data-driven decisions with ease. Join the revolution of business optimisation with our project, crafted with admin wizardry by me 🧙‍♂️
 
-Stay tuned for further updates here
+Stay tuned for further updates here ⏳
 
 Description:
 
